@@ -18,6 +18,7 @@ using namespace std;
 int main(int argc, char** argv) {
     cout << "Programme de version";
     cout << "Second cout pour second commit";
+    cout << "Marcel : 'Nourris moi'";
     return 0;
 }
 
